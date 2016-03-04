@@ -1,0 +1,14 @@
+layout_spectrum: 0.4967777
+color:
+  saturation: 0.5606389
+  lightness: 0.2318057
+  brandStrength: 0.555955
+  brandColors:
+    - '#0D1516'
+    - '#394A42'
+    - '#E9EAE8'
+    - '#6D775D'
+    - '#9A9C98'
+  rhythmicContrast: 0.4458666
+typography_spectrum: 0.7631579
+name: Deep Sleep
