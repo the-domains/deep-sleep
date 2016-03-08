@@ -1,14 +1,28 @@
+name: Deep Sleep
+favicon: null
 layout_spectrum: 0.4967777
+typography_spectrum: 0.7631579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5606389
-  lightness: 0.2318057
-  brandStrength: 0.555955
   brandColors:
     - '#0D1516'
     - '#394A42'
     - '#E9EAE8'
     - '#6D775D'
     - '#9A9C98'
-  rhythmicContrast: 0.4458666
-typography_spectrum: 0.7631579
-name: Deep Sleep
+  brandStrength: 0.875
+  lightness: 0.2318057
+  saturation: 0.0625
+  rhythmicContrast: 0.75
+purpose: []
