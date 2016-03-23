@@ -1,28 +1,40 @@
-name: Deep Sleep
-favicon: null
-layout_spectrum: 0.4967777
-typography_spectrum: 0.7631579
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0D1516'
-    - '#394A42'
-    - '#E9EAE8'
-    - '#6D775D'
-    - '#9A9C98'
-  brandStrength: 0.875
-  lightness: 0.2318057
-  saturation: 0.0625
-  rhythmicContrast: 0.75
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.0625
+  brandStrength: 0.7220149
+  lightness: 0.2318057
+  brandColors:
+    - '#0C151F'
+    - '#A3A3A3'
+    - '#2F435C'
+    - '#666D78'
+    - '#F9F5F4'
+  rhythmicContrast: 0.75
+typography_spectrum: 0.928638
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Deep Sleep
